@@ -1,1 +1,1 @@
-# notesapp
+This personal project was built whilst following a Linkedin Learning unit called [Django Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdjango-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DUzCcpqD6RL%252BwOOIZiXRY%252BA%253D%253D) by Instructor Leticia Portella.
